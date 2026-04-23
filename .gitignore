@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+
+# env
+env/
+.env
+
+# models
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+
+# data
+data/
+datasets/
+
+# results
+*.xlsx
+*.json
+
+# logs
+*.log
+
+.DS_Store
