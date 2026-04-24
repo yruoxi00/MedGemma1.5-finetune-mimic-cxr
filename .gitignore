@@ -22,4 +22,7 @@ datasets/
 # logs
 *.log
 
+# out
+*.out
+
 .DS_Store
